@@ -1,6 +1,8 @@
 # JCurl
 JSON-aware curl (1) in Java
 
+Docs here > https://bruceskingle.github.io/test-repo/
+
 ```
 Usage: jcurl [options...] <URL>
 
